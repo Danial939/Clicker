@@ -37,9 +37,15 @@
    cd Clicker
 Установите зависимости:
 
-```bash
+``bash
 npm install
+
+
 Запустите дев-сервер:
 
 ```bash
 npm run dev
+
+
+
+
