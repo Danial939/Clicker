@@ -35,16 +35,15 @@
    ```bash
    git clone https://github.com/Danial939/Clicker.git
    cd Clicker
-Установите зависимости:
-
-``bash
-npm install
-
-
-Запустите дев-сервер:
+2. **Установите зависимости и запуск:**
 
 ```bash
+npm install
 npm run dev
+
+
+
+
 
 
 
