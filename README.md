@@ -37,6 +37,6 @@
    cd Clicker
 2. **Установите зависимости и запуск:**
 
-```bash
-npm install
-npm run dev
+   ```bash
+   npm install
+   npm run dev
